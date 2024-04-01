@@ -42,6 +42,6 @@ The final console included an escape room game, a Bluetooth controller, and the 
 ### resin 3d printed buttons
 <p align="center">
 <video width="500" height="500" controls>
-  <source src="images\final_prot_but.MOV" type="video/MOV">
+  <source src="images\final_prot_but.MOV" type="video/mp4">
 </video>
 </p>
